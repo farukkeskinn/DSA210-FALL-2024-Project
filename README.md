@@ -1,8 +1,8 @@
 # DSA210-FALL-2024-Project
 
-## Apple Health Data Analysis Dashboard
+## Apple Health Data Analysis
 
-## Project Motivation
+## Motivation
 Understanding personal health trends is essential for maintaining a healthy lifestyle. This project obtained data from the Apple Health app to analyze and visualize health and activity metrics. The goal is to create an interactive dashboard that provides actionable insights into personal health trends and behaviors.
 
 ---
@@ -32,16 +32,5 @@ This project uses health data exported from the Apple Health app. The data inclu
 
 - **Correlation Analysis:**
   - Analyze correlations between body mass and heart rate metrics.
-
----
-
-## Features
-- **Health Metric Analysis:**
-  - Visualize weight changes over time.
-  - Examine heart rate distributions and variations.
-  - Contextualize data using motion and activity metadata.
-
-- **Interactive Dashboard:**
-  - Built using Dash or Streamlit for dynamic exploration of metrics.
 
 ---
