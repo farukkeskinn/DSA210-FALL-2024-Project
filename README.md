@@ -102,7 +102,3 @@ The app is live and can be accessed here:
 
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
